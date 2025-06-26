@@ -1,0 +1,1 @@
+Changed footprint SW1 from 'Button_Switch_THT:SW_PUSH_6mm_H5mm' to 'Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm': : OK
